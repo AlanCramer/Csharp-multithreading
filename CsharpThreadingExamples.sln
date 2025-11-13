@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCondition4Timed", "Race
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCondition5NoRace", "RaceCondition5NoRace\RaceCondition5NoRace.csproj", "{698D2450-8257-4315-8982-8412C8E434A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLock1Broken", "DeadLock1Broken\DeadLock1Broken.csproj", "{7974D525-A1C3-4AC1-AADC-C584A4371C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{698D2450-8257-4315-8982-8412C8E434A1}.Release|x64.Build.0 = Release|Any CPU
 		{698D2450-8257-4315-8982-8412C8E434A1}.Release|x86.ActiveCfg = Release|Any CPU
 		{698D2450-8257-4315-8982-8412C8E434A1}.Release|x86.Build.0 = Release|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Debug|x64.Build.0 = Debug|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Debug|x86.Build.0 = Debug|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Release|x64.ActiveCfg = Release|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Release|x64.Build.0 = Release|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Release|x86.ActiveCfg = Release|Any CPU
+		{7974D525-A1C3-4AC1-AADC-C584A4371C65}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

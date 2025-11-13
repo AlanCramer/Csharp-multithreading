@@ -8,7 +8,7 @@ class Program
 
     static void Main()
     {
-        //RunInMain();
+        RunInMain();
         RunWithLock();
         RunWithInterlocked();
     }
